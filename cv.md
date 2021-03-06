@@ -18,13 +18,13 @@
 * Flexbox
 
 ### APIs:
-REST API, GraphQL, Firebase.
+*REST API, GraphQL, Firebase.*
 
 ### Tools:
-VS Code, Git, Adobe Photoshop, Monday, Trello.
+*VS Code, Git, Adobe Photoshop, Monday, Trello.*
 
 ### PM Methodology:
-Agile, Kanban, Scrum.
+*Agile, Kanban, Scrum.*
 
 ### Projects:
 [ToDo List App](https://github.com/kyrylogrygoriev/toDoList_2.0)
@@ -38,12 +38,12 @@ Agile, Kanban, Scrum.
 * Maintaining project documentation.
 
 ### Education:
-Physics and Maths at National University of "Kyiv-Mohyla Academy"
+Physics and Maths at *National University of "Kyiv-Mohyla Academy"*
 
 ### Certifications:
-[Modern JavaScript](https://www.udemy.com/certificate/UC-RX4HY5PE/), by Udemy
-Customer Acquisition Specialist, by DigitalMarketer
-College of Leadership, by Hillsong College 
+* [Modern JavaScript](https://www.udemy.com/certificate/UC-RX4HY5PE/), by Udemy
+* Customer Acquisition Specialist, by DigitalMarketer
+* College of Leadership, by Hillsong College 
 
 ### Languages:
 * **English** - Advanced
